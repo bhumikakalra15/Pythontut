@@ -124,3 +124,6 @@ print ("o" in "dot")
 print ("o" in "mat")
 print("o" not in "dot")
 print("o" not in "mat")
+
+powerful
+# bodmas() ** / // * + -
